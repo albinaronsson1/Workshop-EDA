@@ -1,0 +1,804 @@
+date,station,user_type,age,trip_duration_min,temperature_c,humidity_pct,wind_speed_kmh,weather,daily_station_trips,satisfaction_score
+2024-01-01,Shopping Mall,subscriber,28.0,9.0,-3.1,52.3,10.8,cloudy,29,3.0
+2024-01-01,Tech Campus,subscriber,45.0,7.6,-2.7,,7.6,sunny,44,3.0
+2024-01-01,Riverside,subscriber,31.0,13.6,1.1,61.5,13.1,snowy,14,3.0
+2024-01-01,University,casual,28.0,10.1,-2.0,67.5,10.4,rainy,25,3.0
+2024-01-02,Tech Campus,subscriber,17.0,27.1,-0.8,46.9,0.1,cloudy,27,4.0
+2024-01-02,City Park,casual,44.0,9.7,-3.2,67.2,3.6,sunny,40,
+2024-01-02,Sports Arena,casual,16.0,11.5,-1.7,59.2,16.2,cloudy,34,4.0
+2024-01-04,Old Town,subscriber,,13.2,0.1,61.8,13.0,cloudy,33,3.0
+2024-01-04,Shopping Mall,subscriber,41.0,32.7,-9.7,51.4,3.3,sunny,54,4.0
+2024-01-05,Riverside,student,,12.2,-3.4,62.8,16.7,rainy,19,3.0
+2024-01-05,Tech Campus,student,24.0,12.4,1.5,50.8,20.1,rainy,19,3.0
+2024-01-05,Sports Arena,casual,38.0,12.3,-2.2,71.7,18.4,cloudy,27,4.0
+2024-01-05,Sports Arena,student,20.0,11.7,5.8,71.6,19.4,snowy,16,3.0
+2024-01-06,Central Station,subscriber,32.0,19.3,-2.4,64.8,19.7,cloudy,47,5.0
+2024-01-06,Shopping Mall,subscriber,33.0,25.6,-0.5,63.1,17.9,rainy,21,3.0
+2024-01-07,Central Station,casual,36.0,40.7,-3.8,72.6,13.7,rainy,25,2.0
+2024-01-08,Shopping Mall,subscriber,34.0,15.0,-0.9,62.7,20.0,sunny,42,4.0
+2024-01-09,Hospital,casual,23.0,31.0,4.0,,,rainy,25,
+2024-01-09,Sports Arena,subscriber,35.0,7.5,-5.1,55.0,9.7,cloudy,42,3.0
+2024-01-09,Sports Arena,student,17.0,6.3,-4.4,,17.3,sunny,44,3.0
+2024-01-10,Hospital,student,24.0,15.4,0.5,67.0,6.9,sunny,46,
+2024-01-10,Sports Arena,subscriber,50.0,24.4,-0.1,49.7,,sunny,42,3.0
+2024-01-12,City Park,subscriber,42.0,29.9,2.2,65.6,6.3,sunny,43,4.0
+2024-01-12,Sports Arena,casual,41.0,18.7,-1.8,54.3,0.6,sunny,52,3.0
+2024-01-13,Shopping Mall,casual,27.0,40.4,-4.2,68.5,5.4,cloudy,37,3.0
+2024-01-13,Old Town,student,20.0,11.6,-3.5,45.3,,snowy,10,
+2024-01-13,City Park,casual,36.0,16.1,-3.5,,15.2,rainy,21,4.0
+2024-01-14,Sports Arena,subscriber,,18.1,-0.4,51.4,13.1,rainy,15,3.0
+2024-01-14,Sports Arena,casual,19.0,12.8,-0.4,,11.2,snowy,13,3.0
+2024-01-15,University,student,26.0,17.1,-6.9,65.0,19.1,snowy,11,4.0
+2024-01-15,Tech Campus,student,22.0,49.8,-0.5,54.1,3.5,cloudy,42,
+2024-01-16,City Park,subscriber,30.0,16.1,-3.1,68.4,13.6,cloudy,39,4.0
+2024-01-17,Sports Arena,student,24.0,18.2,0.4,63.9,7.0,rainy,19,3.0
+2024-01-18,Riverside,subscriber,36.0,17.3,0.2,65.5,13.6,cloudy,28,4.0
+2024-01-19,Shopping Mall,student,22.0,22.7,0.7,60.4,9.8,sunny,33,4.0
+2024-01-19,Central Station,casual,18.0,13.7,5.4,41.1,7.3,sunny,47,
+2024-01-20,Old Town,subscriber,45.0,12.9,-1.4,77.6,2.3,rainy,19,3.0
+2024-01-20,Hospital,casual,16.0,4.1,-2.4,43.4,19.0,sunny,43,3.0
+2024-01-21,Riverside,subscriber,27.0,8.4,4.4,60.4,18.2,cloudy,37,3.0
+2024-01-21,Hospital,subscriber,26.0,29.5,-2.8,61.9,13.4,sunny,31,3.0
+2024-01-22,Harbour,subscriber,35.0,6.9,-3.6,52.8,7.6,cloudy,30,3.0
+2024-01-22,Shopping Mall,subscriber,43.0,8.2,1.2,54.4,12.6,cloudy,36,3.0
+2024-01-23,Riverside,subscriber,,24.5,-1.7,58.0,12.4,cloudy,31,2.0
+2024-01-23,Shopping Mall,subscriber,45.0,23.9,2.6,40.9,9.2,snowy,15,3.0
+2024-01-25,Riverside,subscriber,30.0,13.3,-2.1,63.7,19.0,cloudy,46,3.0
+2024-01-26,Central Station,casual,,20.2,2.9,74.7,7.1,sunny,47,3.0
+2024-01-27,City Park,casual,24.0,15.4,1.8,52.1,12.4,cloudy,37,4.0
+2024-01-28,University,subscriber,26.0,14.3,6.2,53.3,21.5,cloudy,33,3.0
+2024-01-28,Sports Arena,subscriber,,9.2,-4.3,65.2,8.2,sunny,38,4.0
+2024-01-28,Central Station,student,20.0,24.1,-0.7,59.0,13.2,cloudy,28,3.0
+2024-01-29,Hospital,subscriber,24.0,30.0,1.9,55.1,5.9,rainy,19,
+2024-01-29,Hospital,student,22.0,8.1,4.2,50.3,3.7,snowy,12,5.0
+2024-02-02,University,subscriber,18.0,21.1,-1.5,70.3,9.7,sunny,56,5.0
+2024-02-02,Sports Arena,casual,53.0,31.2,5.3,56.3,9.3,rainy,16,2.0
+2024-02-02,Old Town,subscriber,61.0,27.0,9.4,45.0,4.2,rainy,15,2.0
+2024-02-03,Sports Arena,subscriber,58.0,21.2,4.0,52.2,11.8,rainy,20,
+2024-02-04,Riverside,student,23.0,7.0,0.2,66.4,13.4,sunny,50,3.0
+2024-02-04,Riverside,student,20.0,25.0,6.7,56.2,12.4,sunny,43,4.0
+2024-02-04,Hospital,subscriber,,20.0,0.3,64.4,13.5,cloudy,34,4.0
+2024-02-04,Central Station,subscriber,31.0,8.3,0.4,65.2,12.7,sunny,50,4.0
+2024-02-04,Sports Arena,student,21.0,8.1,4.9,67.1,10.7,cloudy,41,2.0
+2024-02-05,City Park,student,22.0,14.5,3.4,57.4,2.0,rainy,11,3.0
+2024-02-05,Old Town,casual,40.0,7.1,0.4,48.8,8.8,sunny,39,
+2024-02-05,Central Station,subscriber,34.0,22.8,-4.6,57.0,15.3,cloudy,37,5.0
+2024-02-06,Shopping Mall,subscriber,51.0,46.1,-0.2,59.6,10.1,cloudy,37,2.0
+2024-02-06,City Park,casual,42.0,9.1,4.9,44.7,0.4,rainy,21,
+2024-02-06,Riverside,subscriber,42.0,9.3,1.5,80.6,19.9,rainy,20,4.0
+2024-02-07,Tech Campus,subscriber,44.0,9.2,3.2,69.5,1.2,sunny,49,2.0
+2024-02-08,City Park,casual,16.0,17.2,-0.5,,8.6,cloudy,34,4.0
+2024-02-08,Riverside,subscriber,34.0,11.6,1.4,48.0,13.9,sunny,61,3.0
+2024-02-08,Harbour,student,25.0,3.7,2.1,,15.8,cloudy,27,4.0
+2024-02-08,Hospital,student,25.0,11.9,-2.7,64.9,14.1,sunny,41,
+2024-02-08,Central Station,subscriber,,8.4,8.2,67.8,2.2,sunny,61,4.0
+2024-02-08,Sports Arena,subscriber,18.0,12.2,3.5,61.3,4.9,sunny,45,5.0
+2024-02-10,Riverside,student,25.0,6.9,0.4,62.8,9.9,rainy,18,3.0
+2024-02-10,Riverside,student,23.0,20.8,2.1,64.3,8.4,snowy,16,3.0
+2024-02-10,Tech Campus,casual,35.0,14.5,6.5,60.0,13.5,cloudy,43,
+2024-02-11,Old Town,subscriber,52.0,16.6,1.1,74.9,17.1,rainy,20,3.0
+2024-02-11,University,student,23.0,29.3,-0.1,64.7,19.3,cloudy,28,3.0
+2024-02-12,Harbour,subscriber,28.0,23.5,1.4,46.8,14.0,snowy,12,4.0
+2024-02-13,University,subscriber,40.0,6.8,5.5,60.5,16.2,cloudy,32,
+2024-02-13,Shopping Mall,subscriber,29.0,16.6,2.8,60.8,14.2,rainy,26,4.0
+2024-02-13,Old Town,subscriber,23.0,10.7,-2.8,55.8,9.4,snowy,8,4.0
+2024-02-13,University,casual,33.0,43.7,5.1,33.8,18.1,rainy,17,
+2024-02-14,University,student,26.0,13.3,5.0,72.3,16.5,sunny,62,3.0
+2024-02-15,City Park,student,24.0,11.9,6.0,68.1,6.4,cloudy,33,3.0
+2024-02-15,Shopping Mall,subscriber,32.0,10.7,3.9,47.1,17.9,cloudy,30,3.0
+2024-02-16,Riverside,subscriber,35.0,19.1,5.4,47.7,12.1,snowy,10,4.0
+2024-02-16,Harbour,subscriber,56.0,15.1,0.9,67.5,16.9,cloudy,44,3.0
+2024-02-16,University,subscriber,28.0,11.4,6.1,62.7,12.3,cloudy,42,4.0
+2024-02-17,Riverside,subscriber,33.0,57.9,3.8,57.6,1.5,sunny,33,4.0
+2024-02-17,Tech Campus,subscriber,40.0,5.6,4.0,71.9,14.0,cloudy,36,4.0
+2024-02-18,Tech Campus,casual,16.0,7.6,-0.6,72.3,9.7,rainy,22,4.0
+2024-02-18,Old Town,subscriber,59.0,9.2,6.9,48.1,13.0,cloudy,38,4.0
+2024-02-19,Central Station,subscriber,,21.0,4.0,,13.2,rainy,20,3.0
+2024-02-20,Harbour,casual,25.0,16.6,3.1,61.6,12.2,rainy,8,
+2024-02-20,Sports Arena,subscriber,50.0,16.5,5.4,53.0,6.6,cloudy,41,
+2024-02-20,City Park,subscriber,23.0,12.9,6.0,64.7,11.2,cloudy,45,4.0
+2024-02-20,City Park,subscriber,,9.4,4.8,56.5,1.5,rainy,21,2.0
+2024-02-21,City Park,student,29.0,10.8,4.8,69.3,19.4,cloudy,48,3.0
+2024-02-21,University,subscriber,37.0,14.2,3.1,75.7,12.7,cloudy,48,3.0
+2024-02-21,Hospital,casual,16.0,35.0,5.1,45.6,22.0,rainy,24,3.0
+2024-02-22,Riverside,subscriber,30.0,20.4,3.7,48.4,,cloudy,45,4.0
+2024-02-22,Old Town,student,30.0,14.8,5.1,50.9,10.7,cloudy,41,4.0
+2024-02-22,Sports Arena,casual,44.0,11.5,-1.8,45.6,15.1,sunny,43,4.0
+2024-02-22,Hospital,Subscriber,16.0,19.1,7.7,71.6,10.9,rainy,13,3.0
+2024-02-22,Shopping Mall,subscriber,37.0,25.8,2.4,58.6,13.2,rainy,15,2.0
+2024-02-22,University,casual,16.0,15.9,3.4,48.1,25.4,cloudy,27,3.0
+2024-02-23,Hospital,subscriber,34.0,15.5,3.3,65.0,,sunny,59,4.0
+2024-02-23,Riverside,student,18.0,16.9,8.4,59.3,14.5,cloudy,27,
+2024-02-23,Shopping Mall,subscriber,28.0,29.2,8.6,75.1,8.2,sunny,45,4.0
+2024-02-23,City Park,subscriber,37.0,8.1,-0.6,56.4,20.2,cloudy,43,4.0
+2024-02-23,Central Station,subscriber,33.0,14.1,11.4,50.8,16.4,cloudy,36,4.0
+2024-02-23,Tech Campus,casual,21.0,13.3,5.9,77.4,21.1,rainy,18,2.0
+2024-02-23,City Park,subscriber,24.0,23.9,11.4,,4.9,snowy,8,3.0
+2024-02-24,Central Station,casual,33.0,9.4,3.4,56.8,13.0,cloudy,30,
+2024-02-26,Hospital,subscriber,44.0,17.4,1.3,65.2,,rainy,27,3.0
+2024-02-27,Sports Arena,student,24.0,51.2,7.0,62.2,7.5,cloudy,28,3.0
+2024-02-27,Tech Campus,subscriber,,11.2,9.2,60.2,1.4,cloudy,26,4.0
+2024-02-27,City Park,casual,17.0,8.0,7.9,52.5,10.6,cloudy,38,5.0
+2024-02-27,Shopping Mall,student,18.0,29.5,9.3,49.9,12.5,rainy,12,3.0
+2024-02-27,University,casual,21.0,18.6,3.8,67.1,,cloudy,27,
+2024-02-27,City Park,subscriber,44.0,18.2,6.2,64.9,7.5,snowy,15,4.0
+2024-02-28,City Park,subscriber,34.0,59.4,0.8,62.3,15.6,cloudy,33,3.0
+2024-02-29,Riverside,subscriber,40.0,25.0,2.9,43.3,8.6,sunny,53,3.0
+2024-02-29,Riverside,casual,21.0,4.5,3.4,59.6,,cloudy,30,3.0
+2024-03-02,Riverside,student,24.0,27.1,9.1,45.2,7.1,cloudy,30,4.0
+2024-03-02,Riverside,student,21.0,15.4,8.4,51.0,23.7,sunny,49,4.0
+2024-03-02,Central Station,casual,39.0,32.8,10.7,67.6,14.4,cloudy,37,4.0
+2024-03-03,Central Station,subscriber,38.0,13.3,13.4,51.3,5.9,cloudy,31,2.0
+2024-03-03,Hospital,casual,38.0,5.9,9.4,64.9,11.5,sunny,42,
+2024-03-03,Central Station,subscriber,28.0,21.7,4.1,71.8,1.5,cloudy,29,3.0
+2024-03-03,Old Town,student,17.0,11.1,3.4,39.1,16.4,rainy,25,5.0
+2024-03-05,University,subscriber,39.0,27.4,13.6,48.0,8.1,sunny,53,3.0
+2024-03-05,Central Station,student,25.0,19.1,7.5,,4.4,snowy,10,3.0
+2024-03-05,City Park,subscriber,46.0,12.3,6.3,54.1,2.7,rainy,13,2.0
+2024-03-06,Harbour,subscriber,40.0,18.9,8.4,41.0,3.3,rainy,17,
+2024-03-06,Old Town,casual,30.0,25.2,6.2,70.6,12.3,cloudy,41,2.0
+2024-03-08,City Park,subscriber,28.0,17.4,9.0,63.9,22.0,sunny,50,2.0
+2024-03-09,Hospital,subscriber,29.0,9.5,6.8,22.7,,rainy,25,3.0
+2024-03-09,Hospital,casual,16.0,6.5,7.7,52.5,9.2,cloudy,44,4.0
+2024-03-09,Central Station,subscriber,18.0,7.1,11.5,54.8,11.6,sunny,46,4.0
+2024-03-10,Shopping Mall,subscriber,34.0,2.6,8.3,54.3,9.6,cloudy,39,4.0
+2024-03-12,City Park,subscriber,16.0,12.7,7.8,56.9,1.4,rainy,23,1.0
+2024-03-12,Tech Campus,subscriber,36.0,12.5,10.4,33.1,10.2,cloudy,41,3.0
+2024-03-14,Sports Arena,subscriber,39.0,14.2,7.5,42.5,8.6,sunny,39,4.0
+2024-03-15,Old Town,casual,16.0,20.0,8.0,38.4,9.4,cloudy,32,
+2024-03-15,Shopping Mall,student,20.0,4.9,7.2,49.8,0.0,cloudy,41,2.0
+2024-03-15,Riverside,subscriber,24.0,10.9,8.6,56.9,6.3,cloudy,35,3.0
+2024-03-16,City Park,casual,,19.6,9.4,47.0,2.4,cloudy,37,2.0
+2024-03-16,Riverside,subscriber,18.0,22.0,6.2,60.0,5.5,cloudy,28,3.0
+2024-03-16,Sports Arena,casual,20.0,8.6,9.3,65.1,7.2,cloudy,40,5.0
+2024-03-18,Sports Arena,subscriber,42.0,17.4,11.9,52.2,3.8,cloudy,39,3.0
+2024-03-20,Old Town,subscriber,,12.0,6.0,52.8,13.1,rainy,16,4.0
+2024-03-21,Central Station,casual,58.0,3.5,5.6,66.2,13.5,cloudy,33,3.0
+2024-03-21,University,student,26.0,7.7,9.9,65.7,18.3,rainy,13,4.0
+2024-03-21,Central Station,student,21.0,10.6,15.1,62.0,5.5,sunny,52,3.0
+2024-03-22,Shopping Mall,casual,24.0,31.2,9.4,59.5,6.1,sunny,42,4.0
+2024-03-23,Harbour,subscriber,51.0,13.6,10.8,40.6,13.4,cloudy,46,5.0
+2024-03-24,Hospital,subscriber,51.0,25.4,13.4,48.3,19.4,snowy,5,
+2024-03-25,City Park,casual,25.0,10.4,11.4,50.4,,cloudy,40,3.0
+2024-03-26,Riverside,subscriber,47.0,29.1,14.4,64.3,21.1,rainy,15,3.0
+2024-03-26,Harbour,subscriber,34.0,23.0,13.8,71.9,6.2,cloudy,15,
+2024-03-28,University,subscriber,31.0,35.5,14.9,38.8,16.9,cloudy,46,3.0
+2024-03-29,Harbour,casual,36.0,22.4,15.1,56.9,23.9,cloudy,23,4.0
+2024-03-29,University,casual,28.0,5.3,12.1,27.7,10.8,sunny,42,
+2024-03-30,Central Station,subscriber,40.0,6.8,12.4,71.0,11.8,cloudy,33,1.0
+2024-03-30,University,subscriber,32.0,11.4,12.0,41.1,5.8,rainy,26,2.0
+2024-03-30,Hospital,student,21.0,16.3,13.7,53.6,5.8,sunny,49,2.0
+2024-03-31,Shopping Mall,subscriber,28.0,5.6,13.5,65.9,16.7,cloudy,27,4.0
+2024-04-01,Sports Arena,subscriber,34.0,20.9,8.8,,8.2,snowy,17,3.0
+2024-04-01,Hospital,subscriber,27.0,10.3,13.4,69.0,9.8,rainy,25,3.0
+2024-04-01,Tech Campus,student,19.0,22.0,14.3,40.2,17.3,rainy,17,3.0
+2024-04-02,City Park,casual,51.0,24.8,13.9,56.5,9.2,rainy,26,3.0
+2024-04-03,Old Town,subscriber,49.0,23.1,15.2,50.2,5.7,rainy,25,3.0
+2024-04-04,Harbour,subscriber,34.0,15.1,10.9,61.2,12.7,cloudy,19,4.0
+2024-04-04,City Park,subscriber,28.0,23.7,16.2,29.8,,cloudy,32,3.0
+2024-04-04,Old Town,Subscriber,54.0,38.2,14.2,44.7,20.2,cloudy,43,2.0
+2024-04-05,Hospital,casual,32.0,22.8,12.0,57.1,12.0,sunny,47,5.0
+2024-04-05,Sports Arena,subscriber,36.0,28.5,14.8,52.6,17.5,cloudy,44,3.0
+2024-04-05,Riverside,subscriber,39.0,35.5,12.6,74.2,3.6,cloudy,32,4.0
+2024-04-05,Riverside,subscriber,45.0,14.3,16.7,53.5,26.9,rainy,26,3.0
+2024-04-05,Tech Campus,subscriber,34.0,19.9,16.7,58.4,11.4,rainy,23,2.0
+2024-04-06,Hospital,casual,29.0,28.6,8.8,51.2,12.5,sunny,53,4.0
+2024-04-06,Riverside,subscriber,39.0,53.6,15.9,54.9,16.0,cloudy,38,3.0
+2024-04-07,Tech Campus,casual,32.0,12.0,11.2,52.8,12.3,cloudy,34,3.0
+2024-04-07,Central Station,subscriber,33.0,7.0,14.5,45.2,14.6,rainy,22,3.0
+2024-04-07,Harbour,subscriber,47.0,10.1,21.1,62.5,16.2,sunny,44,3.0
+2024-04-08,University,casual,30.0,29.5,11.5,55.7,18.6,cloudy,31,3.0
+2024-04-08,Shopping Mall,casual,45.0,16.5,12.5,67.2,22.7,sunny,45,4.0
+2024-04-08,Harbour,student,20.0,13.8,13.1,66.6,9.9,rainy,23,3.0
+2024-04-08,Old Town,student,25.0,31.1,8.5,67.6,6.1,cloudy,31,4.0
+2024-04-08,Old Town,casual,51.0,28.1,13.4,45.1,13.9,snowy,15,
+2024-04-08,Central Station,casual,21.0,8.0,18.4,42.3,6.0,snowy,15,3.0
+2024-04-08,Tech Campus,casual,23.0,8.5,14.1,50.3,17.2,cloudy,34,2.0
+2024-04-08,Tech Campus,subscriber,27.0,16.4,9.8,,10.8,rainy,31,4.0
+2024-04-08,Riverside,student,20.0,9.1,14.0,72.2,7.1,cloudy,40,3.0
+2024-04-09,Riverside,student,25.0,4.9,11.5,56.6,17.1,sunny,53,4.0
+2024-04-09,Old Town,student,23.0,6.6,17.2,42.4,14.3,cloudy,31,4.0
+2024-04-09,Tech Campus,casual,,16.2,12.6,61.3,8.1,cloudy,32,4.0
+2024-04-09,Shopping Mall,subscriber,38.0,26.4,17.2,47.8,9.5,cloudy,33,2.0
+2024-04-10,Sports Arena,student,26.0,20.9,21.3,54.3,10.2,rainy,14,3.0
+2024-04-10,City Park,subscriber,35.0,4.3,8.4,43.0,17.6,rainy,22,2.0
+2024-04-10,Riverside,Subscriber,27.0,10.2,16.2,68.6,9.0,cloudy,44,3.0
+2024-04-10,Sports Arena,casual,40.0,4.7,16.9,52.7,,cloudy,38,3.0
+2024-04-12,University,student,27.0,22.9,18.6,54.6,13.2,rainy,16,
+2024-04-12,University,subscriber,19.0,20.1,20.0,60.5,,rainy,25,4.0
+2024-04-12,Old Town,casual,32.0,23.8,6.8,54.9,7.1,cloudy,36,4.0
+2024-04-12,Riverside,subscriber,38.0,14.6,15.2,46.6,,cloudy,32,3.0
+2024-04-13,University,subscriber,36.0,24.1,13.9,75.6,6.8,rainy,24,3.0
+2024-04-13,Central Station,student,20.0,9.7,14.5,54.2,,cloudy,35,4.0
+2024-04-14,City Park,casual,17.0,16.5,12.9,39.1,21.6,sunny,45,
+2024-04-14,Harbour,casual,17.0,20.4,14.1,54.5,3.0,cloudy,35,
+2024-04-15,Tech Campus,subscriber,49.0,5.5,16.7,52.5,20.1,cloudy,38,3.0
+2024-04-15,Tech Campus,casual,43.0,19.6,19.8,,19.5,rainy,15,4.0
+2024-04-16,Harbour,subscriber,37.0,25.9,13.2,64.3,12.7,cloudy,33,3.0
+2024-04-17,Tech Campus,subscriber,46.0,10.4,13.8,64.0,10.4,cloudy,26,3.0
+2024-04-17,Shopping Mall,subscriber,51.0,19.0,15.0,66.2,,cloudy,28,3.0
+2024-04-18,Harbour,subscriber,42.0,17.2,19.6,40.5,11.7,rainy,35,4.0
+2024-04-21,Hospital,casual,19.0,21.9,15.5,,9.9,rainy,9,2.0
+2024-04-21,Old Town,student,24.0,14.4,15.6,,10.5,snowy,13,3.0
+2024-04-21,Central Station,casual,29.0,39.8,21.6,50.6,18.2,cloudy,34,3.0
+2024-04-22,Shopping Mall,casual,43.0,17.0,12.5,47.7,7.3,cloudy,46,3.0
+2024-04-22,City Park,subscriber,30.0,11.1,15.8,62.7,15.2,rainy,13,2.0
+2024-04-22,Riverside,casual,47.0,13.0,21.5,56.6,,cloudy,22,
+2024-04-22,City Park,casual,40.0,9.4,15.7,56.8,3.7,cloudy,37,
+2024-04-22,Harbour,subscriber,50.0,25.7,21.4,52.4,13.6,rainy,12,2.0
+2024-04-23,University,subscriber,37.0,8.0,17.6,68.3,24.7,cloudy,38,3.0
+2024-04-23,Old Town,student,28.0,6.0,16.7,38.4,10.6,cloudy,34,2.0
+2024-04-24,Sports Arena,subscriber,,10.4,18.1,51.9,12.3,cloudy,28,4.0
+2024-04-25,Riverside,subscriber,41.0,21.9,15.3,43.0,8.1,cloudy,35,2.0
+2024-04-25,Riverside,subscriber,24.0,34.1,16.6,67.5,9.5,rainy,23,3.0
+2024-04-25,Central Station,subscriber,43.0,9.3,12.3,58.1,17.8,sunny,37,
+2024-04-26,City Park,subscriber,59.0,6.3,21.5,,5.6,snowy,14,4.0
+2024-04-26,Harbour,casual,31.0,61.0,18.6,45.7,6.2,cloudy,39,3.0
+2024-04-27,Central Station,casual,25.0,19.5,12.3,59.2,14.0, sunny,57,5.0
+2024-04-27,Shopping Mall,subscriber,,32.5,19.1,65.5,15.4,sunny,43,3.0
+2024-04-28,Sports Arena,subscriber,31.0,20.2,12.2,,13.0,snowy,18,3.0
+2024-04-29,Central Station,student,24.0,15.2,21.1,53.2,5.9,cloudy,35,3.0
+2024-04-29,Sports Arena,casual,50.0,11.9,21.2,35.6,5.3,rainy,17,4.0
+2024-04-30,Central Station,subscriber,26.0,9.5,19.8,52.4,6.7,cloudy,26,3.0
+2024-05-01,Old Town,student,20.0,12.3,19.5,63.0,10.0,rainy,15,3.0
+2024-05-01,Hospital,subscriber,42.0,14.7,19.8,48.6,8.3,snowy,20,3.0
+2024-05-01,Shopping Mall,subscriber,29.0,8.2,18.8,63.3,11.9,cloudy,28,4.0
+2024-05-01,Tech Campus,subscriber,,13.5,15.9,,11.1,rainy,20,2.0
+2024-05-01,University,subscriber,38.0,30.5,14.3,58.2,12.0,rainy,19,3.0
+2024-05-02,City Park,student,,11.0,17.4,67.5,9.4,rainy,22,3.0
+2024-05-03,Central Station,subscriber,44.0,22.1,20.0,52.4,10.5,rainy,16,2.0
+2024-05-03,Riverside,casual,28.0,8.8,16.1,48.6,21.3,sunny,47,3.0
+2024-05-04,Tech Campus,student,18.0,5.9,13.2,49.7,,cloudy,30,3.0
+2024-05-05,University,casual,50.0,6.3,20.9,46.8,2.5,cloudy,35,4.0
+2024-05-05,Shopping Mall,subscriber,37.0,10.5,15.0,,21.7,rainy,18,3.0
+2024-05-05,Hospital,casual,45.0,22.2,16.5,46.1,18.6,rainy,16,3.0
+2024-05-05,Tech Campus,casual,33.0,31.1,14.2,,9.3,rainy,24,2.0
+2024-05-06,Tech Campus,subscriber,,17.1,17.8,47.8,10.9,rainy,27,2.0
+2024-05-06,Old Town,subscriber,33.0,15.9,18.3,,5.5,rainy,21,3.0
+2024-05-07,Harbour,subscriber,34.0,8.2,13.0,57.9,11.7,snowy,14,3.0
+2024-05-07,University,subscriber,34.0,16.1,19.9,41.4,8.3,rainy,12,3.0
+2024-05-07,Shopping Mall,student,24.0,9.8,15.6,36.5,12.3,cloudy,32,2.0
+2024-05-07,Riverside,subscriber,44.0,17.0,19.4,34.9,7.2,snowy,11,
+2024-05-08,Hospital,subscriber,33.0,20.7,20.7,55.8,19.3,sunny,43,4.0
+2024-05-08,Hospital,student,27.0,8.6,16.1,74.9,,sunny,44,2.0
+2024-05-08,Central Station,student,21.0,8.9,18.3,,16.5,rainy,22,3.0
+2024-05-09,Riverside,casual,25.0,11.8,22.8,48.5,14.2,snowy,4,
+2024-05-09,Shopping Mall,casual,47.0,9.3,19.4,,13.1,rainy,19,
+2024-05-10,Old Town,subscriber,52.0,23.8,21.1,40.4,,cloudy,38,3.0
+2024-05-10,Old Town,subscriber,,15.4,20.8,61.7,7.9,sunny,45,4.0
+2024-05-10,City Park,subscriber,34.0,15.4,19.0,49.8,10.4,cloudy,33,
+2024-05-10,Shopping Mall,student,27.0,16.4,17.9,52.4,10.7,rainy,18,2.0
+2024-05-11,City Park,subscriber,46.0,17.7,16.8,42.6,10.9,snowy,12,2.0
+2024-05-12,Hospital,casual,45.0,15.2,22.0,48.3,0.4,cloudy,39,3.0
+2024-05-12,Sports Arena,casual,35.0,12.6,19.6,57.9,17.3,sunny,47,5.0
+2024-05-13,Sports Arena,subscriber,33.0,9.3,20.6,46.4,17.5,rainy,17,3.0
+2024-05-13,Central Station,subscriber,24.0,16.3,18.9,56.5,18.5,cloudy,39,4.0
+2024-05-14,Sports Arena,subscriber,25.0,23.3,22.8,,17.2,snowy,9,3.0
+2024-05-14,Old Town,casual,24.0,11.3,17.1,39.7,8.8,cloudy,36,2.0
+2024-05-14,City Park,student,24.0,29.2,15.9,61.1,13.4,cloudy,36,4.0
+2024-05-15,City Park,subscriber,54.0,13.2,18.2,43.3,7.1,snowy,21,3.0
+2024-05-15,City Park,subscriber,18.0,8.4,21.2,48.6,13.2,sunny,34,4.0
+2024-05-15,Riverside,subscriber,37.0,19.3,21.5,49.2,0.6,snowy,15,2.0
+2024-05-16,Sports Arena,casual,,7.7,21.1,,13.3,rainy,15,
+2024-05-18,Central Station,subscriber,27.0,20.3,20.2,76.6,16.9,sunny,46,3.0
+2024-05-19,Shopping Mall,student,25.0,23.5,21.8,37.0,7.1,cloudy,31,4.0
+2024-05-20,Central Station,student,22.0,35.5,19.0,51.6,,sunny,45,4.0
+2024-05-20,University,student,21.0,6.2,23.2,62.0,,cloudy,38,3.0
+2024-05-21,Central Station,student,24.0,16.9,20.4,47.6,16.4,cloudy,33,2.0
+2024-05-22,Shopping Mall,subscriber,32.0,6.3,26.7,35.5,,cloudy,38,3.0
+2024-05-22,Shopping Mall,student,17.0,39.3,26.7,36.9,,cloudy,35,4.0
+2024-05-22,Central Station,subscriber,,11.9,21.8,32.9,7.5,cloudy,33,4.0
+2024-05-23,University,subscriber,38.0,21.7,16.3,46.8,16.9,cloudy,41,4.0
+2024-05-23,University,student,22.0,8.9,17.9,54.0,18.6,sunny,43,4.0
+2024-05-23,Old Town,student,22.0,10.0,23.9,43.2,10.3,rainy,18,4.0
+2024-05-23,Central Station,casual,39.0,15.7,17.2,50.4,12.8,cloudy,31,3.0
+2024-05-23,Old Town,subscriber,52.0,28.9,22.8,41.4,,cloudy,43,3.0
+2024-05-23,University,casual,,6.0,20.1,60.3,9.5,sunny,44,
+2024-05-23,Sports Arena,student,20.0,14.8,23.9,41.0,6.2,rainy,15,3.0
+2024-05-24,Old Town,student,26.0,10.7,17.8,67.4,5.5,cloudy,33,3.0
+2024-05-24,Hospital,subscriber,41.0,4.4,14.2,49.2,18.5,snowy,17,3.0
+2024-05-24,Shopping Mall,casual,36.0,32.0,19.3,53.9,6.0,snowy,11,2.0
+2024-05-24,Hospital,student,24.0,12.4,19.9,48.7,9.4,cloudy,39,3.0
+2024-05-25,Sports Arena,student,28.0,21.5,23.3,51.7,17.1,sunny,43,
+2024-05-25,Central Station,student,27.0,22.5,23.3,51.0,0.1,rainy,22,
+2024-05-26,Riverside,subscriber,43.0,20.8,23.0,42.3,18.0,sunny,45,
+2024-05-26,Shopping Mall,subscriber,22.0,31.6,19.8,61.0,10.6,sunny,41,4.0
+2024-05-26,Riverside,student,24.0,25.1,21.7,,12.1,snowy,10,4.0
+2024-05-26,University,student,,8.8,19.7,42.3,16.8,sunny,44,4.0
+2024-05-26,Riverside,student,29.0,20.8,22.1,39.1,7.8,sunny,43,3.0
+2024-05-26,Harbour,student,29.0,11.2,24.6,41.3,15.8,cloudy,42,3.0
+2024-05-27,University,casual,33.0,29.0,13.5,,18.7,cloudy,33,
+2024-05-27,Hospital,casual,52.0,30.9,22.1,51.2,,sunny,48,
+2024-05-27,University,casual,41.0,21.0,18.0,63.3,18.3,rainy,21,4.0
+2024-05-28,Harbour,casual,30.0,17.7,19.4,22.7,1.5,sunny,39,2.0
+2024-05-29,Harbour,subscriber,41.0,11.5,19.6,,23.1,snowy,9,3.0
+2024-05-29,Tech Campus,subscriber,39.0,14.7,16.4,57.6,17.6,cloudy,39,2.0
+2024-05-30,Hospital,casual,43.0,15.6,18.8,62.8,19.5,snowy,12,5.0
+2024-05-30,Tech Campus,casual,18.0,21.3,20.0,,5.4,rainy,22,2.0
+2024-05-30,Central Station,student,26.0,22.9,20.6,44.1,13.4,rainy,18,4.0
+2024-05-30,City Park,student,17.0,6.3,22.5,39.7,19.1,cloudy,34,4.0
+2024-05-31,Old Town,subscriber,47.0,16.6,21.2,48.3,6.1,sunny,47,4.0
+2024-05-31,Shopping Mall,casual,36.0,36.3,26.5,55.8,16.4,snowy,8,5.0
+2024-05-31,Shopping Mall,casual,29.0,13.5,24.8,55.3,11.8,cloudy,30,4.0
+2024-05-31,Shopping Mall,student,28.0,22.7,16.4,57.0,9.0,cloudy,40,3.0
+2024-05-31,Tech Campus,student,19.0,20.4,21.4,46.6,1.8,cloudy,32,4.0
+2024-06-01,Harbour,subscriber,22.0,0.1,26.2,47.8,7.8,snowy,14,3.0
+2024-06-01,Shopping Mall,subscriber,32.0,15.9,19.7,50.4,11.3,cloudy,38,2.0
+2024-06-02,Central Station,student,,19.3,22.6,,6.6,cloudy,37,4.0
+2024-06-02,Hospital,subscriber,16.0,15.4,20.3,,11.9,cloudy,39,3.0
+2024-06-03,Harbour,subscriber,33.0,23.4,21.5,84.2,16.5,rainy,19,3.0
+2024-06-04,Sports Arena,casual,16.0,31.4,19.6,49.8,11.2, sunny,47,
+2024-06-05,Sports Arena,subscriber,30.0,5.1,26.4,63.1,16.3,cloudy,30,3.0
+2024-06-06,Shopping Mall,casual,36.0,32.7,24.5,55.1,13.4,cloudy,32,4.0
+2024-06-06,Sports Arena,subscriber,47.0,19.1,18.5,51.3,20.2,cloudy,27,3.0
+2024-06-06,University,subscriber,35.0,10.2,23.1,,16.2,rainy,23,3.0
+2024-06-08,Central Station,subscriber,40.0,21.8,24.4,24.6,,cloudy,38,3.0
+2024-06-08,City Park,student,23.0,27.7,21.0,,7.0,cloudy,40,
+2024-06-08,University,subscriber,36.0,23.9,21.6,40.7,8.0,cloudy,33,3.0
+2024-06-08,Hospital,casual,24.0,15.4,19.0,40.5,24.1,cloudy,36,2.0
+2024-06-08,Harbour,subscriber,45.0,15.0,22.3,46.1,13.3,snowy,19,
+2024-06-08,Harbour,student,24.0,27.2,18.0,46.7,21.8,rainy,23,
+2024-06-09,City Park,casual,23.0,4.5,18.7,42.0,10.1,cloudy,26,3.0
+2024-06-09,Hospital,subscriber,33.0,11.0,15.8,63.6,17.6,cloudy,33,3.0
+2024-06-09,Harbour,subscriber,36.0,10.0,16.0,30.9,10.1,cloudy,22,4.0
+2024-06-09,University,subscriber,20.0,22.9,25.1,40.2,12.2,rainy,15,4.0
+2024-06-10,Tech Campus,student,22.0,26.7,25.1,39.5,,cloudy,37,3.0
+2024-06-10,Shopping Mall,casual,,11.9,27.3,42.8,11.6,rainy,12,3.0
+2024-06-11,City Park,subscriber,38.0,12.5,19.7,64.9,,cloudy,34,
+2024-06-11,Hospital,subscriber,59.0,7.6,23.7,69.0,12.3,rainy,23,3.0
+2024-06-11,Riverside,casual,41.0,14.1,24.7,44.3,16.2,snowy,11,
+2024-06-11,Riverside,casual,32.0,9.0,19.0,53.1,,cloudy,44,2.0
+2024-06-12,Central Station,student,17.0,15.4,25.6,38.7,13.8,cloudy,28,4.0
+2024-06-12,University,casual,43.0,14.0,21.8,52.9,12.2,sunny,42,4.0
+2024-06-12,Hospital,subscriber,35.0,13.8,27.7,50.5,12.2,rainy,15,2.0
+2024-06-13,Riverside,student,21.0,26.3,24.0,53.6,21.4,sunny,45,3.0
+2024-06-13,Tech Campus,subscriber,37.0,12.2,22.2,57.0,,cloudy,42,4.0
+2024-06-13,Old Town,subscriber,26.0,13.3,19.6,64.2,5.6,sunny,37,4.0
+2024-06-14,Hospital,subscriber,33.0,15.6,21.5,54.6,11.5,cloudy,42,3.0
+2024-06-15,City Park,subscriber,38.0,16.4,27.9,32.0,7.4,sunny,62,5.0
+2024-06-15,Old Town,student,27.0,8.9,22.7,46.6,21.9,rainy,19,2.0
+2024-06-16,Tech Campus,student,27.0,10.0,21.5,51.4,5.4,rainy,32,4.0
+2024-06-16,Riverside,casual,16.0,11.8,19.4,53.6,11.6,sunny,52,4.0
+2024-06-17,Shopping Mall,casual,16.0,8.7,23.5,54.9,8.2,sunny,35,5.0
+2024-06-18,Riverside,casual,42.0,13.4,25.6,58.8,17.4,cloudy,24,3.0
+2024-06-18,Sports Arena,casual,25.0,8.6,24.7,50.2,23.9,rainy,25,
+2024-06-18,Central Station,subscriber,16.0,16.9,20.7,20.4,11.7,rainy,21,3.0
+2024-06-18,Hospital,subscriber,41.0,10.9,19.0,,12.9,rainy,18,2.0
+2024-06-18,Old Town,subscriber,25.0,8.0,25.4,56.2,16.8,cloudy,38,4.0
+2024-06-19,Hospital,casual,28.0,10.1,23.7,,6.8,snowy,14,
+2024-06-20,Harbour,subscriber,39.0,26.5,21.9,58.9,20.8,sunny,44,3.0
+2024-06-20,Sports Arena,casual,41.0,8.9,21.7,,10.1,rainy,23,2.0
+2024-06-20,Hospital,student,25.0,32.7,23.5,,13.9,rainy,19,3.0
+2024-06-20,Sports Arena,casual,40.0,31.8,25.4,49.2,10.2,cloudy,35,4.0
+2024-06-21,Harbour,subscriber,64.0,24.0,20.2,39.3,14.8,cloudy,27,4.0
+2024-06-21,Harbour,subscriber,16.0,9.8,18.7,31.3,12.5,cloudy,33,3.0
+2024-06-21,Riverside,subscriber,48.0,4.2,18.6,53.7,1.6,cloudy,37,3.0
+2024-06-21,Central Station,subscriber,,5.6,23.0,37.8,14.6,cloudy,35,
+2024-06-21,Shopping Mall,student,25.0,10.9,23.9,49.6,14.8,snowy,8,
+2024-06-22,Tech Campus,student,20.0,25.7,20.3,45.6,13.2,sunny,55,2.0
+2024-06-22,Hospital,subscriber,63.0,45.6,21.6,51.6,10.3,sunny,57,3.0
+2024-06-23,Tech Campus,subscriber,36.0,24.4,27.3,47.3,,cloudy,31,4.0
+2024-06-24,Hospital,subscriber,45.0,14.1,20.7,62.1,14.1,rainy,23,2.0
+2024-06-24,Harbour,casual,42.0,6.5,18.8,43.9,7.4,cloudy,37,
+2024-06-25,Shopping Mall,student,22.0,9.2,22.8,54.3,19.6,cloudy,34,2.0
+2024-06-25,Tech Campus,subscriber,44.0,10.8,26.2,40.6,26.6,SUNNY,42,3.0
+2024-06-25,Tech Campus,student,23.0,77.4,19.4,57.5,10.4,rainy,15,2.0
+2024-06-25,Tech Campus,subscriber,45.0,30.3,17.2,51.9,8.0,snowy,12,4.0
+2024-06-26,Shopping Mall,subscriber,33.0,25.4,24.4,54.9,10.5,sunny,39,4.0
+2024-06-26,Tech Campus,casual,31.0,11.0,19.9,30.5,1.5,rainy,21,3.0
+2024-06-27,Central Station,subscriber,48.0,13.6,18.7,43.4,1.3,snowy,9,4.0
+2024-06-27,City Park,subscriber,40.0,21.8,23.4,41.3,21.0,sunny,46,5.0
+2024-06-28,Hospital,casual,16.0,20.1,25.6,49.3,21.0,sunny,40,
+2024-06-28,City Park,subscriber,38.0,20.1,26.9,61.5,,cloudy,40,3.0
+2024-06-28,Old Town,subscriber,26.0,5.7,23.5,43.5,9.0,sunny,47,3.0
+2024-06-29,Riverside,casual,22.0,18.9,19.7,31.4,10.8,snowy,21,4.0
+2024-06-29,University,casual,39.0,60.4,15.3,,14.3,rainy,19,3.0
+2024-06-30,Riverside,subscriber,,7.0,26.7,56.2,11.8,sunny,37,4.0
+2024-07-01,City Park,subscriber,44.0,15.5,25.1,65.1,12.1,cloudy,29,3.0
+2024-07-02,Hospital,subscriber,35.0,12.0,18.2,37.6,24.2,cloudy,40,4.0
+2024-07-03,Tech Campus,casual,35.0,23.8,21.9,30.2,,cloudy,43,4.0
+2024-07-04,Tech Campus,subscriber,35.0,15.8,18.2,37.4,13.0,rainy,16,4.0
+2024-07-04,City Park,subscriber,22.0,40.0,25.0,33.7,14.8,rainy,16,4.0
+2024-07-04,Old Town,subscriber,36.0,9.9,16.5,58.2,25.3,sunny,41,3.0
+2024-07-05,City Park,subscriber,41.0,19.3,25.5,,,rainy,16,2.0
+2024-07-05,University,subscriber,58.0,6.4,22.4,64.2,,snowy,12,3.0
+2024-07-05,University,casual,42.0,19.5,17.1,47.3,6.0,cloudy,26,3.0
+2024-07-05,Sports Arena,casual,24.0,19.9,16.7,43.8,5.5,sunny,42,4.0
+2024-07-06,Old Town,subscriber,43.0,35.2,24.5,39.4,8.6,cloudy,31,3.0
+2024-07-06,Shopping Mall,subscriber,49.0,22.3,26.0,37.6,15.6,sunny,49,4.0
+2024-07-06,Shopping Mall,subscriber,45.0,6.8,25.0,47.0,9.2,sunny,50,4.0
+2024-07-07,Old Town,subscriber,53.0,2.9,23.6,44.0,5.6,sunny,39,5.0
+2024-07-07,Riverside,student,23.0,11.0,18.9,42.5,10.2,rainy,24,3.0
+2024-07-08,City Park,subscriber,65.0,4.8,18.7,65.2,15.8,cloudy,38,4.0
+2024-07-08,Shopping Mall,subscriber,31.0,9.2,19.6,45.5,19.4,snowy,7,4.0
+2024-07-08,Shopping Mall,student,26.0,10.4,20.0,38.9,11.9,cloudy,34,
+2024-07-08,Riverside,subscriber,,5.3,20.4,46.9,,cloudy,35,4.0
+2024-07-08,City Park,casual,26.0,12.2,22.3,55.6,9.4,snowy,10,3.0
+2024-07-08,Old Town,casual,40.0,25.3,17.8,40.9,22.4,cloudy,38,
+2024-07-09,Old Town,casual,41.0,8.2,20.7,60.0,28.1,sunny,43,4.0
+2024-07-09,Hospital,casual,,30.3,21.9,,18.8,rainy,22,
+2024-07-09,Sports Arena,subscriber,32.0,37.8,19.5,60.7,3.0,sunny,35,4.0
+2024-07-10,Harbour,casual,16.0,45.7,21.0,49.4,7.4,snowy,12,
+2024-07-10,Harbour,casual,49.0,39.4,14.4,56.3,,cloudy,41,
+2024-07-10,City Park,subscriber,28.0,42.8,22.8,48.1,8.2,sunny,48,3.0
+2024-07-10,Tech Campus,student,16.0,19.2,18.3,60.3,19.7,cloudy,39,4.0
+2024-07-10,Harbour,subscriber,34.0,16.9,24.2,49.2,14.8,sunny,33,5.0
+2024-07-10,Harbour,casual,27.0,12.2,23.5,36.0,12.0,rainy,16,
+2024-07-12,Hospital,casual,53.0,5.6,22.2,37.4,,sunny,40,
+2024-07-12,City Park,subscriber,44.0,15.9,17.3,64.3,9.7,cloudy,34,4.0
+2024-07-13,Hospital,casual,21.0,7.2,25.0,48.1,13.5,rainy,16,2.0
+2024-07-14,Shopping Mall,student,22.0,30.2,19.3,52.1,9.8,cloudy,32,4.0
+2024-07-14,Old Town,casual,27.0,8.8,17.3,45.5,11.2,cloudy,32,
+2024-07-15,Tech Campus,subscriber,40.0,48.1,19.3,53.3,17.0,cloudy,31,2.0
+2024-07-15,Shopping Mall,casual,31.0,15.5,20.6,59.1,11.3,rainy,20,3.0
+2024-07-16,Hospital,subscriber,24.0,18.3,19.9,49.4,10.3,cloudy,50,2.0
+2024-07-16,Shopping Mall,casual,16.0,3.1,19.9,56.5,9.4,rainy,22,4.0
+2024-07-16,Sports Arena,subscriber,22.0,13.9,19.5,59.6,10.5,cloudy,33,3.0
+2024-07-17,Sports Arena,student,23.0,29.3,27.2,51.4,7.0,cloudy,32,
+2024-07-19,Sports Arena,subscriber,41.0,3.5,16.8,53.0,17.3,sunny,49,5.0
+2024-07-19,City Park,subscriber,58.0,22.0,20.5,49.3,12.4,rainy,22,3.0
+2024-07-19,Sports Arena,casual,37.0,26.3,13.9,35.9,21.6,cloudy,35,4.0
+2024-07-20,Tech Campus,student,27.0,14.2,19.1,35.9,,rainy,20,2.0
+2024-07-20,Central Station,casual,20.0,7.7,17.4,57.6,15.9,sunny,47,4.0
+2024-07-20,Hospital,subscriber,22.0,9.5,21.7,48.1,20.1,rainy,14,5.0
+2024-07-21,Harbour,subscriber,46.0,15.4,17.2,55.5,2.3,cloudy,39,4.0
+2024-07-21,Hospital,subscriber,27.0,11.9,22.6,50.9,9.7,SUNNY,58,3.0
+2024-07-22,Harbour,subscriber,16.0,14.8,19.6,47.0,0.2,cloudy,34,
+2024-07-23,Riverside,subscriber,32.0,10.4,21.8,63.6,,sunny,36,4.0
+2024-07-24,Hospital,subscriber,42.0,10.1,24.7,68.7,14.9,rainy,19,4.0
+2024-07-24,Central Station,student,31.0,9.6,18.1,46.0,5.6,sunny,53,4.0
+2024-07-25,Shopping Mall,student,,7.9,19.6,51.7,15.5,cloudy,36,
+2024-07-25,Tech Campus,student,20.0,8.3,20.7,60.3,8.3,cloudy,35,2.0
+2024-07-26,Sports Arena,casual,31.0,12.6,19.3,55.6,9.9,cloudy,35,
+2024-07-26,City Park,casual,44.0,6.9,17.6,54.5,18.1,rainy,17,2.0
+2024-07-26,Shopping Mall,subscriber,,16.8,21.9,59.3,3.7,cloudy,34,3.0
+2024-07-30,Harbour,casual,29.0,22.3,17.6,41.0,9.6,rainy,18,3.0
+2024-07-31,University,casual,25.0,40.3,18.3,57.0,21.4,rainy,23,3.0
+2024-07-31,City Park,subscriber,43.0,18.0,21.1,48.6,14.1,rainy,19,4.0
+2024-08-01,Central Station,casual,32.0,43.1,17.5,,20.6,rainy,17,
+2024-08-02,Harbour,subscriber,31.0,20.9,19.4,44.0,15.9,cloudy,34,4.0
+2024-08-02,Central Station,subscriber,27.0,11.6,19.6,36.9,19.8,sunny,37,4.0
+2024-08-02,Old Town,student,18.0,23.7,24.8,46.3,17.2,sunny,54,3.0
+2024-08-02,Riverside,student,19.0,27.3,22.2,50.0,11.7,sunny,46,4.0
+2024-08-02,Sports Arena,casual,,10.8,25.1,38.8,26.0,sunny,45,3.0
+2024-08-03,Sports Arena,subscriber,39.0,12.4,18.1,43.0,,rainy,20,2.0
+2024-08-04,Central Station,student,26.0,12.1,16.0,60.0,12.1,cloudy,35,4.0
+2024-08-04,Shopping Mall,casual,49.0,14.2,14.6,43.7,15.6,cloudy,36,3.0
+2024-08-04,Hospital,subscriber,31.0,17.5,17.4,49.9,,sunny,43,
+2024-08-04,Tech Campus,subscriber,33.0,12.2,15.8,63.5,4.4,rainy,22,4.0
+2024-08-04,Old Town,subscriber,42.0,7.1,20.7,49.4,2.4,Sunny,40,5.0
+2024-08-04,Shopping Mall,subscriber,46.0,38.5,17.6,49.9,6.0,cloudy,28,4.0
+2024-08-05,Harbour,subscriber,44.0,9.1,20.6,51.4,11.9,sunny,55,5.0
+2024-08-05,Tech Campus,student,21.0,35.5,19.5,47.2,6.8,cloudy,43,5.0
+2024-08-05,City Park,student,24.0,12.3,21.3,50.8,,cloudy,43,
+2024-08-05,Old Town,subscriber,,5.8,20.2,60.7,26.6,cloudy,35,3.0
+2024-08-07,Riverside,casual,21.0,5.3,15.3,65.3,,cloudy,35,3.0
+2024-08-07,Old Town,Subscriber,26.0,10.1,20.6,,8.5,snowy,17,4.0
+2024-08-07,Central Station,casual,29.0,13.7,18.7,51.0,16.4,sunny,37,4.0
+2024-08-07,Hospital,subscriber,45.0,11.4,17.7,53.0,10.7,sunny,52,4.0
+2024-08-07,Shopping Mall,casual,21.0,19.6,17.1,57.6,16.1,cloudy,40,3.0
+2024-08-07,University,student,24.0,18.0,20.6,43.1,14.6,sunny,43,4.0
+2024-08-08,Tech Campus,subscriber,31.0,21.7,12.4,29.7,9.0,cloudy,38,3.0
+2024-08-09,Hospital,casual,39.0,38.7,20.3,35.2,8.2,cloudy,36,2.0
+2024-08-09,University,student,20.0,33.9,13.7,76.0,10.9,sunny,46,4.0
+2024-08-09,Harbour,subscriber,48.0,34.2,14.7,56.6,13.9,sunny,43,4.0
+2024-08-10,Riverside,subscriber,34.0,19.0,18.8,60.3,17.0,cloudy,32,4.0
+2024-08-10,Tech Campus,student,22.0,20.6,15.7,63.5,9.1,cloudy,29,
+2024-08-10,Riverside,subscriber,39.0,9.5,14.9,44.2,11.6,rainy,25,3.0
+2024-08-10,University,casual,31.0,28.2,14.1,35.8,13.6,sunny,46,
+2024-08-11,Central Station,subscriber,39.0,39.8,18.0,32.9,,sunny,41,
+2024-08-11,University,student,25.0,36.1,16.8,35.1,14.8,sunny,41,
+2024-08-11,Sports Arena,subscriber,38.0,11.4,19.0,38.3,18.3,cloudy,42,3.0
+2024-08-11,Old Town,student,21.0,7.2,19.5,51.8,21.1,rainy,21,3.0
+2024-08-12,City Park,subscriber,50.0,13.2,16.2,50.0,12.5,cloudy,38,4.0
+2024-08-12,Hospital,casual,20.0,16.3,19.4,40.2,10.4,cloudy,36,3.0
+2024-08-12,City Park,subscriber,39.0,9.8,16.4,45.6,24.2,rainy,17,3.0
+2024-08-13,Harbour,student,22.0,12.1,17.4,59.9,7.2,cloudy,35,3.0
+2024-08-13,Tech Campus,subscriber,43.0,17.2,20.3,62.4,18.5,rainy,19,4.0
+2024-08-14,Riverside,casual,,22.9,17.6,68.9,15.3,rainy,26,3.0
+2024-08-14,Old Town,student,22.0,29.7,16.0,33.6,14.5,sunny,32,3.0
+2024-08-14,Sports Arena,subscriber,35.0,28.2,18.3,61.7,,rainy,18,1.0
+2024-08-14,Old Town,subscriber,42.0,11.6,13.2,55.1,8.1,cloudy,40,4.0
+2024-08-15,Riverside,student,22.0,16.7,21.9,,8.6,rainy,15,4.0
+2024-08-16,University,casual,23.0,11.8,18.4,65.8,10.1,snowy,9,5.0
+2024-08-16,Hospital,subscriber,46.0,24.1,16.7,68.1,10.6,sunny,52,4.0
+2024-08-16,Shopping Mall,subscriber,35.0,4.6,20.8,51.2,14.6,cloudy,45,3.0
+2024-08-17,Riverside,subscriber,38.0,2.8,20.5,60.9,20.2,cloudy,46,4.0
+2024-08-17,Sports Arena,subscriber,47.0,8.3,20.4,43.8,15.8,sunny,52,5.0
+2024-08-18,Old Town,subscriber,29.0,24.2,16.4,59.7,11.8,rainy,28,3.0
+2024-08-18,Tech Campus,subscriber,31.0,40.8,12.6,60.4,,cloudy,25,3.0
+2024-08-18,Central Station,student,24.0,11.5,17.9,40.2,12.6,cloudy,27,4.0
+2024-08-18,Hospital,casual,35.0,11.4,13.7,74.2,,sunny,52,3.0
+2024-08-20,Hospital,casual,18.0,11.8,14.0,41.8,13.4,sunny,41,4.0
+2024-08-20,University,student,16.0,42.1,17.3,54.8,16.2,cloudy,37,3.0
+2024-08-20,Riverside,subscriber,40.0,15.2,18.3,,14.6,cloudy,41,3.0
+2024-08-20,Harbour,subscriber,27.0,14.1,11.1,64.0,9.4,sunny,41,4.0
+2024-08-20,University,subscriber,42.0,14.5,11.2,43.9,,sunny,36,4.0
+2024-08-20,University,student,24.0,5.0,13.8,67.7,14.1,snowy,15,4.0
+2024-08-21,University,casual,41.0,16.6,18.3,66.8,8.6,rainy,21,2.0
+2024-08-22,City Park,subscriber,39.0,16.1,16.6,60.9,19.8,rainy,22,3.0
+2024-08-23,Harbour,subscriber,16.0,19.2,11.5,56.3,7.7,cloudy,36,1.0
+2024-08-23,Sports Arena,student,25.0,7.7,14.7,,14.6,rainy,29,2.0
+2024-08-24,City Park,subscriber,31.0,8.2,22.7,47.3,21.3,rainy,22,3.0
+2024-08-24,Tech Campus,subscriber,40.0,10.3,17.4,54.0,19.7,cloudy,38,4.0
+2024-08-24,University,subscriber,27.0,29.5,13.5,49.7,15.9,rainy,15,
+2024-08-25,City Park,student,24.0,6.7,13.2,,17.7,rainy,23,3.0
+2024-08-25,City Park,subscriber,36.0,-5.0,14.2,45.8,16.7,cloudy,36,3.0
+2024-08-26,University,subscriber,27.0,12.8,13.6,56.5,17.7,cloudy,35,4.0
+2024-08-26,Shopping Mall,student,20.0,8.9,13.9,28.2,7.1,sunny,42,3.0
+2024-08-26,Sports Arena,casual,42.0,11.7,14.2,66.2,13.7,rainy,24,3.0
+2024-08-27,Tech Campus,subscriber,29.0,5.0,14.3,60.3,14.9,sunny,48,4.0
+2024-08-27,Central Station,subscriber,42.0,6.4,13.3,,0.3,rainy,22,4.0
+2024-08-28,Hospital,student,29.0,8.7,13.9,60.9,18.0,cloudy,39,4.0
+2024-08-29,Tech Campus,student,22.0,14.7,15.3,58.1,14.0,sunny,28,4.0
+2024-08-29,Harbour,subscriber,48.0,8.2,9.1,57.0,16.0,cloudy,40,4.0
+2024-08-29,University,casual,36.0,33.0,16.1,53.2,20.0,rainy,14,3.0
+2024-08-29,Sports Arena,subscriber,44.0,12.8,15.2,,7.0,rainy,17,3.0
+2024-08-30,University,casual,42.0,20.5,15.1,47.8,15.5,rainy,23,3.0
+2024-08-31,Hospital,subscriber,49.0,15.2,13.9,60.4,11.6,cloudy,33,3.0
+2024-09-02,Hospital,subscriber,41.0,22.4,13.5,52.8,6.9,sunny,52,3.0
+2024-09-02,Riverside,casual,23.0,13.8,13.1,52.6,11.1,sunny,44,
+2024-09-03,Sports Arena,subscriber,,3.2,13.3,35.0,5.4,sunny,41,5.0
+2024-09-03,Sports Arena,student,25.0,16.7,15.8,,,snowy,13,4.0
+2024-09-03,City Park,subscriber,33.0,12.3,17.9,55.6,11.6,cloudy,33,2.0
+2024-09-03,Shopping Mall,subscriber,,14.2,11.7,53.6,12.6,rainy,18,4.0
+2024-09-05,University,casual,,0.0,14.2,44.7,11.3,snowy,11,4.0
+2024-09-05,Tech Campus,student,24.0,37.1,16.8,73.5,16.3,cloudy,34,3.0
+2024-09-06,Hospital,subscriber,48.0,16.7,13.2,47.8,,cloudy,39,2.0
+2024-09-06,Riverside,subscriber,18.0,6.6,14.3,60.6,10.0,sunny,39,5.0
+2024-09-06,Harbour,subscriber,38.0,10.7,15.2,45.9,,sunny,32,4.0
+2024-09-07,Riverside,casual,31.0,15.5,14.5,,5.5,rainy,21,
+2024-09-07,Old Town,subscriber,34.0,11.8,15.8,66.8,15.3,rainy,22,3.0
+2024-09-08,Central Station,subscriber,20.0,16.3,11.9,68.7,6.2,cloudy,36,3.0
+2024-09-08,Central Station,subscriber,40.0,23.3,8.1,50.5,23.4,cloudy,36,3.0
+2024-09-08,Hospital,subscriber,44.0,12.2,16.0,61.4,8.1,snowy,10,
+2024-09-08,Riverside,subscriber,,24.0,16.4,66.6,13.3,sunny,43,3.0
+2024-09-08,Hospital,subscriber,49.0,9.1,10.3,72.0,12.9,cloudy,36,3.0
+2024-09-08,Old Town,casual,25.0,47.5,7.3,56.8,0.1,cloudy,26,
+2024-09-08,Tech Campus,subscriber,46.0,8.0,12.5,,13.0,snowy,16,3.0
+2024-09-09,Sports Arena,subscriber,30.0,30.8,12.2,50.5,,cloudy,35,4.0
+2024-09-09,Harbour,subscriber,44.0,21.5,11.2,52.7,9.8,sunny,58,3.0
+2024-09-09,Sports Arena,subscriber,40.0,3.4,11.7,51.0,12.8,snowy,15,3.0
+2024-09-09,City Park,casual,,27.0,18.5,42.1,23.4,snowy,21,
+2024-09-09,Sports Arena,subscriber,48.0,16.3,9.3,68.7,9.5,cloudy,34,3.0
+2024-09-10,Tech Campus,subscriber,45.0,9.1,11.4,41.4,23.7,sunny,54,2.0
+2024-09-10,Central Station,subscriber,43.0,18.8,8.5,55.8,12.4,sunny,41,3.0
+2024-09-10,University,casual,,25.8,14.4,76.9,8.6,cloudy,32,3.0
+2024-09-11,Hospital,subscriber,22.0,21.5,8.3,67.4,10.0,cloudy,36,4.0
+2024-09-11,Old Town,casual,32.0,14.5,10.4,48.6,13.9,cloudy,34,4.0
+2024-09-11,Riverside,subscriber,,6.4,12.3,65.9,9.5,cloudy,33,2.0
+2024-09-12,Hospital,casual,31.0,20.6,13.1,63.9,,sunny,41,3.0
+2024-09-12,Shopping Mall,casual,36.0,48.6,10.3,63.5,16.1,cloudy,42,4.0
+2024-09-13,Hospital,casual,16.0,25.5,9.1,59.7,23.6,cloudy,40,3.0
+2024-09-13,Central Station,subscriber,46.0,15.6,11.8,45.4,11.8,cloudy,29,2.0
+2024-09-14,Tech Campus,casual,28.0,7.0,8.6,43.0,14.7,cloudy,34,2.0
+2024-09-14,Hospital,subscriber,44.0,33.9,11.4,51.9,17.2,cloudy,38,2.0
+2024-09-15,Central Station,subscriber,44.0,9.9,10.4,60.0,3.4,sunny,51,4.0
+2024-09-15,Sports Arena,subscriber,,13.4,16.4,48.6,10.7,cloudy,38,3.0
+2024-09-15,Central Station,casual,35.0,12.0,8.7,43.3,16.7,rainy,21,
+2024-09-15,University,subscriber,48.0,28.7,13.3,54.9,10.2,sunny,42,4.0
+2024-09-15,City Park,subscriber,31.0,19.0,12.3,43.6,18.5,sunny,38,5.0
+2024-09-16,Shopping Mall,subscriber,27.0,15.3,11.1,60.8,3.1,cloudy,35,4.0
+2024-09-16,Hospital,subscriber,49.0,28.8,11.6,40.3,16.4,sunny,56,4.0
+2024-09-17,Harbour,subscriber,45.0,38.9,10.6,,19.3,rainy,14,3.0
+2024-09-18,Tech Campus,subscriber,37.0,7.7,11.9,53.8,13.5,sunny,44,4.0
+2024-09-19,Tech Campus,subscriber,37.0,23.6,11.5,69.9,3.0,cloudy,30,4.0
+2024-09-20,Riverside,student,25.0,15.9,14.0,77.3,10.4,cloudy,33,3.0
+2024-09-20,Old Town,subscriber,21.0,15.0,5.1,40.6,6.5,cloudy,33,2.0
+2024-09-20,Tech Campus,casual,18.0,6.4,9.2,50.7,20.1,rainy,17,3.0
+2024-09-20,University,student,,16.1,7.3,57.6,19.0,sunny,43,5.0
+2024-09-20,City Park,casual,,16.2,13.5,57.1,12.1,snowy,7,3.0
+2024-09-21,Riverside,subscriber,30.0,24.9,11.4,,,rainy,25,4.0
+2024-09-21,Tech Campus,subscriber,50.0,6.6,10.8,,2.1,snowy,13,4.0
+2024-09-23,Riverside,casual,28.0,22.7,7.5,59.9,22.2,cloudy,27,3.0
+2024-09-23,Harbour,casual,27.0,41.0,4.8,53.4,8.3,sunny,54,3.0
+2024-09-24,Sports Arena,student,23.0,23.7,12.3,42.9,1.1,snowy,17,2.0
+2024-09-24,Sports Arena,subscriber,40.0,35.8,4.8,59.4,11.1,sunny,41,4.0
+2024-09-24,Tech Campus,casual,43.0,15.3,11.8,71.1,12.9,rainy,17,3.0
+2024-09-24,Harbour,casual,47.0,22.2,8.5,64.3,7.7,sunny,44,
+2024-09-24,Tech Campus,casual,16.0,5.7,7.4,53.8,8.3,cloudy,35,4.0
+2024-09-25,Central Station,student,25.0,25.0,10.9,63.1,14.0,snowy,15,3.0
+2024-09-26,Riverside,subscriber,51.0,15.2,7.1,49.9,12.0,cloudy,39,4.0
+2024-09-27,City Park,subscriber,,8.5,7.2,67.0,13.2,cloudy,37,4.0
+2024-09-27,Harbour,casual,29.0,28.9,7.9,53.1,19.8,cloudy,31,
+2024-09-27,Old Town,student,26.0,35.4,8.8,57.0,18.3,cloudy,33,
+2024-09-27,Harbour,student,21.0,74.2,12.7,52.0,2.9,snowy,15,3.0
+2024-09-28,City Park,subscriber,32.0,8.9,10.3,59.3,1.0,sunny,48,4.0
+2024-09-28,Riverside,casual,35.0,31.3,9.0,51.7,17.2,rainy,21,3.0
+2024-09-29,University,casual,29.0,66.9,9.6,40.6,16.2,cloudy,26,
+2024-09-29,Sports Arena,subscriber,40.0,6.9,7.8,62.1,11.0,sunny,37,4.0
+2024-09-30,Central Station,subscriber,28.0,10.7,7.0,42.0,9.6,rainy,20,3.0
+2024-10-01,Hospital,casual,32.0,13.5,8.4,58.4,14.7,rainy,25,4.0
+2024-10-01,Hospital,casual,39.0,7.8,7.9,46.0,,cloudy,40,4.0
+2024-10-03,City Park,subscriber,39.0,28.0,6.7,63.2,7.6,rainy,20,4.0
+2024-10-03,University,Subscriber,39.0,5.2,6.5,77.8,24.6,cloudy,26,3.0
+2024-10-03,Sports Arena,subscriber,30.0,11.3,5.7,52.5,12.9,cloudy,34,4.0
+2024-10-03,University,subscriber,33.0,29.1,5.3,,3.9,rainy,19,1.0
+2024-10-04,City Park,casual,,7.3,4.8,53.0,6.3,cloudy,29,3.0
+2024-10-05,Sports Arena,subscriber,50.0,1440.0,9.6,56.9,10.4,rainy,17,3.0
+2024-10-05,Tech Campus,student,27.0,22.1,-3.4,63.0,25.1,sunny,55,3.0
+2024-10-06,Riverside,student,22.0,15.2,6.4,57.1,16.1,rainy,25,3.0
+2024-10-06,Harbour,student,23.0,8.2,7.4,53.0,16.9,snowy,9,
+2024-10-06,Harbour,casual,37.0,11.5,9.3,56.0,16.2,cloudy,32,
+2024-10-06,University,subscriber,,8.7,2.0,42.1,10.9,cloudy,34,3.0
+2024-10-06,Tech Campus,student,24.0,16.1,6.9,52.6,8.0,cloudy,31,3.0
+2024-10-07,Tech Campus,subscriber,47.0,32.1,6.2,61.1,14.7,sunny,39,4.0
+2024-10-08,Tech Campus,casual,25.0,10.6,4.4,57.5,3.6,cloudy,27,4.0
+2024-10-09,Riverside,subscriber,,37.4,12.9,47.6,2.3,snowy,7,
+2024-10-09,Sports Arena,subscriber,41.0,22.2,5.8,57.1,0.1,rainy,22,3.0
+2024-10-09,Tech Campus,subscriber,46.0,11.7,1.8,60.8,18.0,cloudy,41,3.0
+2024-10-09,University,subscriber,36.0,31.7,9.0,48.3,13.1,rainy,17,3.0
+2024-10-09,Riverside,casual,,5.0,6.8,58.4,4.5,cloudy,37,
+2024-10-10,Riverside,casual,40.0,8.6,6.8,56.4,19.2,cloudy,32,3.0
+2024-10-10,University,subscriber,33.0,7.0,1.7,,12.5,rainy,21,2.0
+2024-10-10,Tech Campus,casual,31.0,15.9,2.3,50.4,19.7,snowy,14,
+2024-10-10,University,subscriber,20.0,9.5,2.9,,14.1,rainy,24,4.0
+2024-10-11,Old Town,casual,24.0,19.4,9.4,60.2,3.7,cloudy,26,
+2024-10-11,Hospital,student,27.0,33.1,7.8,,14.1,rainy,20,4.0
+2024-10-12,City Park,subscriber,30.0,15.0,4.0,59.9,22.0,snowy,16,3.0
+2024-10-12,Shopping Mall,subscriber,,85.8,1.3,63.6,14.6,rainy,21,2.0
+2024-10-12,Riverside,subscriber,39.0,22.4,2.8,62.1,23.9,rainy,21,3.0
+2024-10-12,Old Town,casual,29.0,25.6,5.2,,9.8,rainy,20,
+2024-10-12,Riverside,subscriber,37.0,12.6,7.7,61.8,0.2,Sunny,47,3.0
+2024-10-14,Sports Arena,casual,20.0,10.5,6.5,58.9,9.9,rainy,22,3.0
+2024-10-14,Sports Arena,subscriber,32.0,8.7,1.4,60.4,10.2,sunny,45,4.0
+2024-10-14,Shopping Mall,subscriber,49.0,15.5,2.8,52.5,4.3,sunny,43,4.0
+2024-10-15,University,subscriber,48.0,6.6,6.1,75.8,3.6,snowy,8,3.0
+2024-10-15,Sports Arena,subscriber,39.0,4.5,7.4,52.8,20.2,sunny,48,3.0
+2024-10-15,University,subscriber,48.0,41.1,6.9,,9.4,rainy,36,3.0
+2024-10-15,City Park,subscriber,44.0,4.4,4.9,,27.4,snowy,10,5.0
+2024-10-16,Riverside,student,19.0,22.4,9.6,65.7,6.4,cloudy,34,2.0
+2024-10-16,City Park,subscriber,,3.6,3.3,72.9,17.1,cloudy,30,4.0
+2024-10-18,Old Town,subscriber,,10.2,4.6,,0.2,rainy,25,2.0
+2024-10-19,City Park,subscriber,43.0,7.6,0.4,48.8,21.8,sunny,46,4.0
+2024-10-20,Shopping Mall,casual,,13.0,5.1,66.8,3.4,sunny,41,
+2024-10-20,Old Town,subscriber,30.0,8.5,3.4,54.3,14.2,rainy,14,4.0
+2024-10-20,University,subscriber,,10.5,4.8,78.4,15.7,cloudy,36,3.0
+2024-10-21,Riverside,casual,48.0,4.9,6.1,61.6,8.8,cloudy,31,3.0
+2024-10-22,Riverside,student,21.0,13.2,7.1,57.3,21.7,cloudy,24,2.0
+2024-10-24,Harbour,subscriber,31.0,18.6,1.5,54.4,15.3,snowy,17,3.0
+2024-10-25,Shopping Mall,subscriber,44.0,26.7,5.0,54.4,8.0,cloudy,33,3.0
+2024-10-27,Harbour,subscriber,35.0,8.6,-0.7,,7.2,rainy,21,
+2024-10-27,Riverside,casual,38.0,8.3,5.8,53.1,13.8,sunny,53,
+2024-10-28,Hospital,subscriber,23.0,11.5,-0.4,58.0,2.6,sunny,46,5.0
+2024-10-28,Tech Campus,casual,25.0,23.4,2.0,63.2,12.8,rainy,24,3.0
+2024-10-29,Sports Arena,casual,42.0,17.4,4.7,49.7,7.0,cloudy,37,4.0
+2024-10-29,Tech Campus,subscriber,44.0,14.3,-2.0,75.8,10.9,rainy,13,4.0
+2024-10-29,Harbour,subscriber,53.0,5.5,4.2,55.7,9.6,snowy,13,3.0
+2024-10-30,Old Town,casual,16.0,26.6,6.1,,15.7,rainy,26,
+2024-10-30,Shopping Mall,subscriber,34.0,29.1,-0.8,68.2,13.4,cloudy,43,4.0
+2024-10-30,Sports Arena,casual,22.0,10.3,4.9,68.1,,cloudy,38,5.0
+2024-10-30,University,casual,18.0,23.6,3.0,55.9,14.8,sunny,43,3.0
+2024-10-30,Shopping Mall,casual,36.0,21.5,2.1,45.8,10.2,snowy,14,
+2024-10-31,Riverside,casual,,13.6,2.1,62.1,13.9,sunny,45,4.0
+2024-10-31,Shopping Mall,casual,23.0,24.1,1.9,69.6,17.4,cloudy,32,3.0
+2024-11-01,Tech Campus,subscriber,,20.4,2.6,71.8,9.0,sunny,43,3.0
+2024-11-01,City Park,subscriber,,12.0,7.5,70.4,15.1,cloudy,27,4.0
+2024-11-01,Harbour,subscriber,38.0,6.8,2.9,66.0,21.2,cloudy,31,2.0
+2024-11-02,Tech Campus,student,20.0,9.4,-0.6,67.2,19.5,cloudy,28,4.0
+2024-11-02,University,subscriber,36.0,48.5,2.3,58.5,10.6,rainy,13,3.0
+2024-11-03,Hospital,subscriber,38.0,16.5,3.4,36.6,25.5,cloudy,30,2.0
+2024-11-03,Riverside,casual,18.0,5.1,-2.3,76.0,15.0,cloudy,38,
+2024-11-03,Harbour,subscriber,42.0,14.3,3.6,66.3,11.2,cloudy,37,3.0
+2024-11-04,Tech Campus,student,,8.1,6.0,33.1,10.8,cloudy,22,4.0
+2024-11-05,Central Station,student,23.0,7.6,3.1,71.9,17.7,cloudy,37,4.0
+2024-11-05,Harbour,subscriber,32.0,14.0,0.5,54.7,3.9,sunny,53,4.0
+2024-11-06,Central Station,subscriber,47.0,19.9,0.5,73.1,2.3,sunny,49,3.0
+2024-11-06,Central Station,subscriber,46.0,16.6,-3.2,61.3,15.2,rainy,17,3.0
+2024-11-07,Riverside,student,20.0,8.8,-0.5,74.7,6.1,rainy,25,3.0
+2024-11-07,Old Town,casual,48.0,15.7,4.6,48.3,5.8,cloudy,40,4.0
+2024-11-08,Harbour,subscriber,38.0,19.5,3.4,75.1,9.4,cloudy,27,3.0
+2024-11-08,Tech Campus,student,24.0,10.3,-1.6,57.2,3.3,rainy,21,2.0
+2024-11-09,Harbour,student,23.0,49.7,-2.0,73.7,22.4,rainy,26,3.0
+2024-11-09,Sports Arena,casual,37.0,13.0,1.6,58.3,13.0,sunny,41,4.0
+2024-11-09,Sports Arena,casual,16.0,7.2,-2.5,,21.0,cloudy,35,4.0
+2024-11-10,Tech Campus,casual,32.0,9.4,3.5,58.0,6.1,snowy,13,2.0
+2024-11-10,University,subscriber,,6.4,-4.5,41.5,15.1,rainy,23,3.0
+2024-11-11,Riverside,subscriber,43.0,9.6,1.1,66.6,10.7,cloudy,35,
+2024-11-11,Old Town,student,21.0,46.1,1.6,47.0,,cloudy,27,3.0
+2024-11-11,Riverside,casual,25.0,4.5,3.0,63.8,6.2,cloudy,31,4.0
+2024-11-12,University,subscriber,,21.9,-0.4,,20.7,rainy,17,4.0
+2024-11-12,Hospital,subscriber,,8.5,-4.9,60.8,10.9,snowy,9,4.0
+2024-11-12,Old Town,subscriber,44.0,16.0,-4.4,54.5,14.3,rainy,19,2.0
+2024-11-13,Old Town,subscriber,35.0,28.7,-1.4,41.9,20.1,cloudy,36,
+2024-11-13,Harbour,subscriber,,7.5,0.9,,7.0,rainy,24,4.0
+2024-11-13,Central Station,student,21.0,23.4,3.8,56.0,17.0,rainy,20,4.0
+2024-11-14,Shopping Mall,student,21.0,14.5,0.3,55.2,7.6,cloudy,37,3.0
+2024-11-15,Shopping Mall,subscriber,38.0,17.9,-3.7,45.8,10.9,sunny,52,3.0
+2024-11-16,Old Town,casual,44.0,16.9,0.8,68.9,18.2,cloudy,39,5.0
+2024-11-16,Central Station,subscriber,34.0,8.7,-0.4,64.5,13.4,rainy,23,3.0
+2024-11-17,Sports Arena,subscriber,28.0,6.3,-1.3,46.5,21.6,sunny,54,
+2024-11-18,Sports Arena,student,19.0,10.0,1.8,53.0,16.5,cloudy,49,4.0
+2024-11-18,Old Town,student,17.0,19.1,-7.0,76.2,8.2,rainy,17,
+2024-11-18,Hospital,casual,21.0,19.7,-7.7,61.4,14.5,cloudy,27,
+2024-11-19,Shopping Mall,student,22.0,5.4,1.8,65.4,15.9,sunny,33,3.0
+2024-11-20,Old Town,casual,16.0,13.6,-0.1,68.4,7.3,rainy,22,3.0
+2024-11-20,Hospital,student,25.0,16.3,1.0,61.4,3.3,Sunny,41,3.0
+2024-11-20,University,casual,,7.8,-7.2,61.8,11.1,rainy,23,
+2024-11-21,City Park,casual,30.0,13.5,-3.5,74.2,8.2,rainy,13,
+2024-11-21,Hospital,subscriber,47.0,25.2,-0.5,50.3,17.2,snowy,16,4.0
+2024-11-22,Shopping Mall,subscriber,54.0,19.4,-7.2,,9.5,cloudy,40,4.0
+2024-11-22,Hospital,casual,42.0,13.0,0.0,70.3,12.1,rainy,26,
+2024-11-22,Shopping Mall,casual,21.0,41.4,0.1,55.2,9.4,sunny,43,4.0
+2024-11-23,Harbour,subscriber,,12.8,1.7,74.3,15.5,rainy,30,4.0
+2024-11-24,Tech Campus,casual,29.0,48.5,3.9,57.5,14.9,cloudy,45,2.0
+2024-11-25,Central Station,subscriber,36.0,10.7,-6.1,54.4,8.1,cloudy,39,3.0
+2024-11-25,Hospital,casual,32.0,10.4,-0.6,55.3,17.2,cloudy,39,
+2024-11-26,University,student,26.0,8.6,-0.7,82.5,3.8,rainy,35,3.0
+2024-11-26,City Park,subscriber,16.0,7.1,-4.4,55.3,23.0,cloudy,37,4.0
+2024-11-26,City Park,student,20.0,11.2,-5.1,84.4,16.4,sunny,44,4.0
+2024-11-30,Harbour,casual,37.0,17.2,-2.0,60.4,,rainy,15,2.0
+2024-12-01,Shopping Mall,student,18.0,13.4,-0.4,56.0,6.3,rainy,19,3.0
+2024-12-02,Hospital,subscriber,27.0,8.4,-2.6,51.9,9.2,cloudy,46,4.0
+2024-12-03,Sports Arena,casual,,12.8,-1.9,50.1,17.5,rainy,24,4.0
+2024-12-03,Harbour,subscriber,47.0,5.0,-3.7,,,rainy,23,3.0
+2024-12-03,Old Town,subscriber,46.0,13.9,3.0,42.6,6.2,cloudy,37,
+2024-12-03,Riverside,subscriber,32.0,9.9,0.8,62.2,4.1,cloudy,31,3.0
+2024-12-04,Old Town,subscriber,48.0,18.9,-3.1,76.6,15.5,rainy,16,2.0
+2024-12-04,Central Station,casual,24.0,13.4,-5.5,66.2,16.1,rainy,26,3.0
+2024-12-05,Shopping Mall,student,22.0,9.4,1.6,72.1,7.7,cloudy,26,3.0
+2024-12-05,Central Station,subscriber,,27.3,-4.7,49.5,19.6,snowy,12,4.0
+2024-12-05,University,subscriber,18.0,12.9,-6.2,56.9,7.2,cloudy,33,4.0
+2024-12-05,Hospital,subscriber,37.0,28.1,-0.1,64.0,8.4,cloudy,39,3.0
+2024-12-06,Old Town,student,24.0,27.5,0.4,63.4,19.8,rainy,21,3.0
+2024-12-06,Tech Campus,casual,57.0,11.8,-9.5,39.4,5.9,rainy,24,2.0
+2024-12-06,Sports Arena,subscriber,41.0,84.6,5.9,50.5,11.9,cloudy,29,3.0
+2024-12-07,Tech Campus,student,27.0,28.6,-9.6,58.1,5.9,cloudy,35,5.0
+2024-12-07,City Park,subscriber,32.0,14.9,-5.5,46.1,21.4,rainy,18,3.0
+2024-12-07,University,casual,30.0,28.3,0.3,49.5,23.7,rainy,13,3.0
+2024-12-07,Hospital,subscriber,29.0,21.4,-0.9,67.9,8.2,cloudy,27,3.0
+2024-12-07,Shopping Mall,subscriber,32.0,16.9,0.4,,13.6,snowy,9,3.0
+2024-12-07,Hospital,casual,36.0,11.0,3.0,44.7,,rainy,20,
+2024-12-08,Central Station,subscriber,34.0,7.8,2.1,62.9,17.2,cloudy,35,2.0
+2024-12-09,Old Town,subscriber,42.0,8.0,-1.7,60.3,21.8,sunny,55,5.0
+2024-12-09,Harbour,subscriber,43.0,20.2,-4.1,62.5,18.7,cloudy,27,3.0
+2024-12-10,Old Town,subscriber,39.0,6.1,1.5,58.9,13.3,cloudy,40,3.0
+2024-12-10,Sports Arena,casual,29.0,30.5,-5.8,63.9,13.4,sunny,48,2.0
+2024-12-11,Tech Campus,subscriber,,62.8,1.5,48.9,19.7,snowy,13,3.0
+2024-12-11,Hospital,subscriber,46.0,16.1,2.0,62.1,4.2,sunny,40,4.0
+2024-12-11,Tech Campus,student,23.0,14.1,-7.8,56.3,16.1,sunny,56,4.0
+2024-12-11,Harbour,casual,25.0,24.9,-7.9,66.9,10.8,rainy,16,3.0
+2024-12-11,Shopping Mall,student,26.0,8.2,-8.2,56.3,,sunny,33,4.0
+2024-12-11,Central Station,casual,18.0,10.1,-5.5,70.6,7.4,cloudy,51,3.0
+2024-12-12,Harbour,subscriber,42.0,15.6,-3.6,77.3,5.1,cloudy,29,4.0
+2024-12-13,Shopping Mall,subscriber,33.0,38.1,-5.8,66.5,7.7,cloudy,26,4.0
+2024-12-13,Riverside,subscriber,,9.1,-5.5,77.1,15.4,cloudy,27,4.0
+2024-12-13,Tech Campus,casual,30.0,25.3,-4.2,59.9,20.1,cloudy,40,4.0
+2024-12-13,Tech Campus,subscriber,,14.6,-0.6,,7.7,rainy,22,
+2024-12-14,Tech Campus,casual,22.0,11.6,-1.4,70.7,13.7,sunny,38,5.0
+2024-12-14,Riverside,student,20.0,32.3,2.0,65.2,,cloudy,31,
+2024-12-14,City Park,casual,16.0,29.1,-0.8,53.9,16.4,snowy,10,
+2024-12-14,Riverside,casual,32.0,17.9,0.9,61.5,17.0,rainy,19,3.0
+2024-12-14,Central Station,subscriber,51.0,8.1,2.9,49.2,11.8,rainy,14,3.0
+2024-12-15,Old Town,subscriber,26.0,28.9,-3.0,55.6,5.1,sunny,30,
+2024-12-16,Riverside,casual,63.0,31.4,-2.3,61.2,9.9,rainy,29,3.0
+2024-12-16,Old Town,casual,30.0,4.9,-6.8,54.4,9.4,Sunny,36,3.0
+2024-12-17,City Park,subscriber,40.0,4.6,-1.9,59.1,7.1,sunny,45,5.0
+2024-12-17,Old Town,casual,33.0,6.4,-4.0,50.7,4.7,sunny,43,4.0
+2024-12-19,Shopping Mall,subscriber,,11.5,1.4,53.9,0.9,sunny,49,4.0
+2024-12-20,Sports Arena,subscriber,50.0,5.0,-1.3,68.8,13.8,sunny,50,4.0
+2024-12-20,Shopping Mall,student,21.0,6.2,-1.3,50.6,9.9,cloudy,26,4.0
+2024-12-20,Hospital,casual,44.0,11.8,-5.2,54.6,19.1,cloudy,32,
+2024-12-22,Old Town,subscriber,16.0,12.6,1.1,47.6,2.0,cloudy,39,3.0
+2024-12-22,University,subscriber,,9.4,-4.4,63.5,10.2,rainy,21,3.0
+2024-12-22,City Park,subscriber,38.0,7.7,-2.0,80.3,7.0,cloudy,39,4.0
+2024-12-23,Sports Arena,casual,16.0,5.6,-4.6,77.9,17.7,cloudy,39,
+2024-12-23,Sports Arena,subscriber,28.0,11.5,-3.7,56.1,17.2,sunny,38,4.0
+2024-12-24,Old Town,subscriber,45.0,9.0,3.2,48.8,3.4,cloudy,39,3.0
+2024-12-24,Central Station,casual,16.0,28.5,-3.4,47.3,9.1,cloudy,50,2.0
+2024-12-25,Shopping Mall,subscriber,44.0,20.2,-4.3,75.8,13.7,cloudy,39,3.0
+2024-12-25,City Park,casual,53.0,44.6,-2.8,63.7,,sunny,57,3.0
+2024-12-25,Tech Campus,subscriber,40.0,7.2,-6.2,54.5,15.9,sunny,51,5.0
+2024-12-25,Sports Arena,student,21.0,15.9,-0.6,64.8,4.6,cloudy,29,3.0
+2024-12-25,City Park,subscriber,,7.9,0.1,51.4,3.1,rainy,19,4.0
+2024-12-26,City Park,casual,41.0,11.8,-1.7,47.9,11.8,sunny,52,3.0
+2024-12-26,Old Town,casual,29.0,5.8,-3.7,54.0,11.8,sunny,50,3.0
+2024-12-29,Riverside,casual,19.0,20.8,-3.6,70.4,18.9,cloudy,41,
+2024-12-29,Old Town,subscriber,53.0,999.9,1.5,57.7,15.8,sunny,41,4.0
+2024-12-30,Hospital,subscriber,30.0,10.2,-3.8,70.1,13.7,cloudy,33,4.0
+2024-12-30,Shopping Mall,subscriber,47.0,6.0,-0.9,47.5,20.0,sunny,58,5.0
+2024-12-30,Shopping Mall,casual,45.0,25.2,0.5,57.5,9.8,sunny,56,4.0
+2024-12-30,Hospital,subscriber,39.0,12.3,-4.8,62.3,9.5,cloudy,25,4.0
+2024-01-22,Harbour,subscriber,35.0,6.9,-3.6,52.8,7.6,cloudy,30,3.0
+2024-08-21,University,casual,41.0,16.6,18.3,66.8,8.6,rainy,21,2.0
+2024-12-13,Tech Campus,casual,30.0,25.3,-4.2,59.9,20.1,cloudy,40,4.0
