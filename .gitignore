@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.env
+
+# OS
+.DS_Store
+~$*
+
+# IDE
+.idea/
+
+# Brainstorm / instructor-only files
+files 2/
+draft.pptx
+solutions/
+data/generate_dataset.py
+CLAUDE.*
